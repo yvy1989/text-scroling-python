@@ -14,7 +14,7 @@ text_to_scroll = "#UP3d_DF ----- Modeling-----3d Print-------KC 390 MODELING----
 
 # Crie a tela
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption("Frase Rolando")
+pygame.display.set_caption("text scroling 1.0")
 
 # Carregue a fonte
 font = pygame.font.Font(None, font_size)
